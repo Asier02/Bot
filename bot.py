@@ -5,7 +5,7 @@ from telebot import types
 import time
 import random
  
-TOKEN = '1633309862:AAFItvxmWFsyHu0hLsNYeOXmGfzcCsMpCPQ'
+TOKEN = ''
 GRUPO = -1001212995041
  
 bot = telebot.TeleBot(TOKEN) 
